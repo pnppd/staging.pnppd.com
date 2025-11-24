@@ -1,0 +1,71 @@
+[
+    {
+        "person_ref": "b27ceff5-5d51-4dd8-8415-d02d5eb96f8e",
+        "career": [
+            {
+                "period": {
+                    "start": {
+                        "year": 2004,
+                    },
+                    "end": {
+                        "year": 2011,
+                    }
+                },
+                "elections": {
+                    "years": [
+                        2004,
+                        2008,
+                    ],
+                },
+                "branch": "Legislative",
+                "office": "",
+                "chamber": "Senate",
+                "rd_ref": "",
+                "sd_ref": "8080cb49-ddb2-4bc1-94c6-993b6f9e18e0",
+            }
+        ]
+    },
+    {
+        "person_ref": "63d51908-86bb-4316-934d-2be03e91f983",
+        "career": [
+            {
+                "period": {
+                    "start": {
+                        "year": 2017,
+                    },
+                    "end": {
+                        "year": 2019,
+                    }
+                },
+                "elections": {
+                    "years": [
+                    ],
+                },
+                "branch": "Executive",
+                "office": "Justice",
+                "chamber": "",
+                "rd_ref": "",
+                "sd_ref": "",
+            },
+            {
+                "period": {
+                    "start": {
+                        "year": 2019,
+                    },
+                    "end": {
+                        "year": 2021,
+                    }
+                },
+                "elections": {
+                    "years": [
+                    ],
+                },
+                "branch": "Executive",
+                "office": "Governor",
+                "chamber": "",
+                "rd_ref": "",
+                "sd_ref": "",
+            },
+        ]
+    },
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "id": "b27ceff5-5d51-4dd8-8415-d02d5eb96f8e",
+        "name": {
+            "given": {
+                "first": "Hector",
+                "middle": ""
+            },
+            "family": {
+                "paternal": "Martínez",
+                "maternal": "Maldonado"
+            },
+            "nickname": ""
+        },
+        "biographic": {
+            "birth": "1968-09-01"
+        },
+        "sources_ref": [
+            "https://en.wikipedia.org/wiki/H%C3%A9ctor_Mart%C3%ADnez_Maldonado"
+        ]
+    },
+    {
+        "id": "63d51908-86bb-4316-934d-2be03e91f983",
+        "name": {
+            "given": {
+                "first": "Wanda",
+                "middle": "Emilia"
+            },
+            "family": {
+                "paternal": "Vázquez",
+                "maternal": "Garced"
+            },
+            "nickname": ""
+        },
+        "biographic": {
+            "birth": "1960-07-09"
+        },
+        "sources_ref": [
+            "https://en.wikipedia.org/wiki/Wanda_V%C3%A1zquez_Garced"
+        ]
+    },
+    {
+        "id": "e63b0adb-8c4d-4585-a961-7af1262df8d2",
+        "name": {
+            "given": {
+                "first": "Anibal",
+                "middle": ""
+            },
+            "family": {
+                "paternal": "Acevedo",
+                "maternal": "Vilá"
+            },
+            "nickname": ""
+        },
+        "biographic": {
+            "birth": "1962-02-19"
+        },
+        "sources_ref": [
+            "https://es.wikipedia.org/wiki/An%C3%ADbal_Acevedo_Vil%C3%A1"
+        ]
+    },
+    {
+        "id": "afc34ef8-fc37-4074-979c-fea4cd342b44",
+        "name": {
+            "given": {
+                "first": "Felix",
+                "middle": ""
+            },
+            "family": {
+                "paternal": "Delgado",
+                "maternal": "Montalvo"
+            },
+            "nickname": "El Cano"
+        },
+        "biographic": {
+            "birth": "1962-02-19"
+        },
+        "sources_ref": [
+            "https://es.wikipedia.org/wiki/An%C3%ADbal_Acevedo_Vil%C3%A1"
+        ]
+    },
+    {
+        "id": "91f062ed-3baa-4bdd-896b-5b3886d237f0",
+        "name": {
+            "given": {
+                "first": "Hector",
+                "middle": ""
+            },
+            "family": {
+                "paternal": "O'Neill",
+                "maternal": "García"
+            },
+            "nickname": ""
+        },
+        "biographic": {
+            "birth": "1945-06-20"
+        },
+        "sources_ref": [
+            "https://es.wikipedia.org/wiki/H%C3%A9ctor_O%27Neill"
+        ]
+    },
+]

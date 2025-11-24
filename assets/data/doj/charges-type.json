@@ -1,0 +1,23 @@
+[
+    {
+        "id": "e42bb350-ba5f-42ba-b15d-229638280dcb",
+        "name": {
+            "EN": "Bribery Scheme",
+            "ES": "Esquema de Soborno"
+        }
+    },
+    {
+        "id": "a4a72e9b-0614-49e3-bcf0-f8e9ab8dc281",
+        "name": {
+            "EN": "Conspiracy",
+            "ES": "Conspiración"
+        }
+    },
+    {
+        "id": "fb0ae15d-d267-4b3b-96b3-53f3e431dccb",
+        "name": {
+            "EN": "Obstruction of Justice",
+            "ES": "Obstrucción de la Justicia"
+        }
+    },
+]

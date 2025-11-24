@@ -1,0 +1,10 @@
+﻿STATE|STATEFP|SLDUST|SLDUNAME
+PR|72|001|State Senate District I
+PR|72|002|State Senate District II
+PR|72|003|State Senate District III
+PR|72|004|State Senate District IV
+PR|72|005|State Senate District V
+PR|72|006|State Senate District VI
+PR|72|007|State Senate District VII
+PR|72|008|State Senate District VIII
+PR|72|ZZZ|State Senate Districts not defined

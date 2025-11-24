@@ -1,0 +1,66 @@
+﻿[
+    {
+        "id": "0631b82a-4830-45a3-b6c3-8f9f91d6bcf1",
+        "number": 1,
+        "name": {
+            "EN": "Representative District 01",
+            "ES": "Distrito Representativo 01"
+        }
+    },
+    {
+        "id": "ad390c2c-6923-49f5-9bc8-99e9c51a2ebb",
+        "number": 2,
+        "name": {
+            "EN": "Representative District 02",
+            "ES": "Distrito Representativo 02"
+        }
+    },
+    {
+        "id": "b0d7b5ef-99ae-4a90-b781-3dd1c96b8cf5",
+        "number": 3,
+        "name": {
+            "EN": "Representative District 03",
+            "ES": "Distrito Representativo 03"
+        }
+    },
+    {
+        "id": "430c6268-98dc-49f1-a81d-f6455fd2f3d1",
+        "number": 4,
+        "name": {
+            "EN": "Representative District 04",
+            "ES": "Distrito Representativo 04"
+        }
+    },
+    {
+        "id": "2ebafd17-4cd6-4b6b-bca1-6bd066ac1599",
+        "number": 5,
+        "name": {
+            "EN": "Representative District 05",
+            "ES": "Distrito Representativo 05"
+        }
+    },
+    {
+        "id": "34416bbc-1be5-451e-9073-b5601e70dede",
+        "number": 6,
+        "name": {
+            "EN": "Representative District 06",
+            "ES": "Distrito Representativo 06"
+        }
+    },
+    {
+        "id": "339b8e15-2bcc-492d-a6dd-c50605757e2c",
+        "number": 7,
+        "name": {
+            "EN": "Representative District 07",
+            "ES": "Distrito Representativo 07"
+        }
+    },
+    {
+        "id": "3f203aae-c1e4-41af-b2e1-6b43585592fc",
+        "number": 8,
+        "name": {
+            "EN": "Representative District 08",
+            "ES": "Distrito Representativo 08"
+        }
+    },
+]

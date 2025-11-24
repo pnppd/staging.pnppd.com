@@ -1,0 +1,22 @@
+[
+    {
+        "id": "546fde4e-7006-4e9d-a320-14b5bc1074dc",
+        "persons": [
+            "b27ceff5-5d51-4dd8-8415-d02d5eb96f8e",
+        ],
+        "type": [
+            "e42bb350-ba5f-42ba-b15d-229638280dcb",
+            "a4a72e9b-0614-49e3-bcf0-f8e9ab8dc281",
+            "fb0ae15d-d267-4b3b-96b3-53f3e431dccb",
+        ],
+    },
+    {
+        "id": "427fa770-fc6e-4f1b-b7c5-69fd72e1fdf3",
+        "persons": [
+            "63d51908-86bb-4316-934d-2be03e91f983",
+        ],
+        "type": [
+            "e42bb350-ba5f-42ba-b15d-229638280dcb",
+        ],
+    },
+]

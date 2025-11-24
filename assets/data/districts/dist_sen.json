@@ -1,0 +1,67 @@
+﻿[
+    {
+        "id": "c83b4503-d987-4088-9c4c-18c50f54ff55",
+        "number": 1,
+        "name": {
+            "EN": "Senate District I",
+            "ES": "Distrito Senatorial I"
+        }
+    },
+    {
+        "id": "54240764-3f5e-4945-9976-781407df08b6",
+        "number": 2,
+        "name": {
+            "EN": "Senate District II",
+            "ES": "Distrito Senatorial II"
+        }
+    },
+    {
+        "id": "161dc3d2-14aa-466c-a290-daaf33ecdd63",
+        "number": 3,
+        "name": {
+            "EN": "Senate District III",
+            "ES": "Distrito Senatorial III"
+        }
+    },
+    {
+        "id": "02038f73-b74d-4bf9-ab50-3a94a083a76f",
+        "number": 4,
+        "name": {
+            "EN": "Senate District IV",
+            "ES": "Distrito Senatorial IV"
+        }
+    },
+    {
+        "id": "bc27b2a3-6ccd-40ac-b3f2-eb2de2ff348e",
+        "number": 5,
+        "name": {
+            "EN": "Senate District V",
+            "ES": "Distrito Senatorial V"
+        }
+    },
+    {
+        "id": "953c612f-58bc-4f76-8db0-b2ecb5d48929",
+        "number": 6,
+        "name": {
+            "EN": "Senate District VI",
+            "ES": "Distrito Senatorial VI"
+        }
+    },
+    {
+        "id": "3ada5bb6-4e65-4b70-bdff-b623dd26d524",
+        "number": 7,
+        "name": {
+            "EN": "Senate District VII",
+            "ES": "Distrito Senatorial VII"
+        }
+    },
+    {
+        "id": "8080cb49-ddb2-4bc1-94c6-993b6f9e18e0",
+        "number": 8,
+        "name": {
+            "EN": "Senate District VIII",
+            "ES": "Distrito Senatorial VIII"
+        }
+    },
+
+]
